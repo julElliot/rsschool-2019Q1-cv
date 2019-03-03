@@ -11,5 +11,7 @@
 4. Skills
     - basic knowledge of object-oriented programming and data structures 
     - programming languages: Delphy, Assembler, C, C#   
+    - basic knowledge of cryptography
+    - basic knowledge of HTML, CSS
 5. Education: BSUIR, Faculty of Computer Systems and Networks, Information technology software, 2 year student
 6. English level: Intermediate   
